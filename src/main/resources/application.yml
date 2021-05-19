@@ -2,9 +2,9 @@ spring:
   application:
     name: redneuronal
   datasource:
-    username: postgres
-    password: 1408
-    url: jdbc:postgresql://localhost:5432/neuronaldb
+    username: qanliytaonocyz
+    password: b337d5f711d8c9b4c74a9e6f4d3fd005ceafddf2c675f3052789296ea2725c3f
+    url: postgres://qanliytaonocyz:b337d5f711d8c9b4c74a9e6f4d3fd005ceafddf2c675f3052789296ea2725c3f@ec2-18-215-111-67.compute-1.amazonaws.com:5432/d2veahtiiuch98
     driver-class-name: org.postgresql.Driver
   thymeleaf:
     cache: false
